@@ -1,3 +1,3 @@
 ## Standard Packages
 
-[Link](golang.org/pkg)
+[Link](https://pkg.go.dev/std)
